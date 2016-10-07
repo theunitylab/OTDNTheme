@@ -16,7 +16,7 @@ if ( has_post_thumbnail() ) {
 }
 ?>
 </div>
-<div class="small-12 medium-12 large-12 columns">
+<div class="small-12 medium-12 large-12 columns nopadding">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
     
     <header class="entry-header">
