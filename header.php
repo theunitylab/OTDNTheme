@@ -30,7 +30,7 @@
             <a href="/"><img src="<?php bloginfo('stylesheet_directory'); ?>/images/OTDN_Logo.png" height="171" width="497" alt="The Ohio Talent Development Network Logo" /></a>
             </div>
             <div class="small-12 medium-8 large-8 columns">
-                <div class="small-12 medium-5 large-6 columns header-menus">
+                <div class="small-12 medium-9 large-9 columns header-menus">
         
 <div class="show-for-medium">
     <div class="row">
