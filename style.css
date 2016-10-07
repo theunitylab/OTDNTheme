@@ -88,7 +88,7 @@ a.skip-link.screen-reader-text:focus{position:static;width:auto;height:auto}ul{m
 /*!
 Section 5: Navigation
 */ul.vertical.menu ul.vertical.menu{border-bottom:2px solid #ddd}
-header nav a,header nav a:hover{color:#600;font-size:1.15rem;font-weight:600}.menu > li > a{padding: 0.7rem 0.8rem;}
+header nav a,header nav a:hover{color:#600;font-size:1.25rem;font-weight:600}.menu > li > a{padding: 0.7rem 0.8rem;}
 header nav a:hover{color:#000;text-decoration:underline}
 header ul#header-menu li a{font-size:.78125rem;color:#600;font-weight:700}header .menu:not(#header-menu):not(.vertical) li:hover,header .dropdown.menu .submenu{border:0}
 header li.is-submenu-item{padding:.1rem 0;border-top:1px solid #0055a5}header .submenu{margin-top:-1px}
