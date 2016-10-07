@@ -127,7 +127,8 @@ ul.nav-menu li.current-menu-item ul.sub-menu{display:block}.main-navigation ul .
 ul.sub-menu{padding-top:15px}nav#site-navigation{padding-bottom:20px}.columns.clearfix.mobile-menu-label{text-align:right;color:#fff}
 /*!
 Section 6: Footer
-*/
+*/div.columns.site-info{background:#000;color:#fff}
+h2.footer-site-title{font-size:2rem;color:#fff}
 .mobile-app-link img{margin-right:.75rem}@media screen and (min-width:40em){.service-box-copy{padding-left:0}
 .service-box-image{padding-right:0}.service-box .button{position:absolute;bottom:1rem;left:63.5px}
 .service-box-container{height:100%}aside.columns{padding-right:0;padding-left:0}.gateway-main,.home-left{padding-right:5rem}
