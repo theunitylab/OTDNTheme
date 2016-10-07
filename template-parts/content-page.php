@@ -18,7 +18,7 @@ if ( has_post_thumbnail() ) {
 </div>
 <div class="small-12 medium-12 large-12 columns">
 <article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
-    <div class="row">
+    
     <header class="entry-header">
 		<?php the_title( '<h1 class="entry-title">', '</h1>' ); ?>
 	</header><!-- .entry-header -->
@@ -49,6 +49,6 @@ if ( has_post_thumbnail() ) {
 			?>
 		</footer><!-- .entry-footer -->
 	<?php endif; ?>
-    </div>
+    
 </article><!-- #post-## -->
 </div>
